@@ -107,5 +107,7 @@
       }
     }
   },
-  "defaultProject": "froms"
+  "cli": {
+    "analytics": false
+  }
 }
